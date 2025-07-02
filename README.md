@@ -1,1 +1,1 @@
-# news_site
+# yangiliklar_sayt
